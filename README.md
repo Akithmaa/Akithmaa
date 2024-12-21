@@ -19,7 +19,7 @@ preview
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akithmaa&label=Profile%20views&color=0e75b6&style=flat" alt="akithmaa" /> </p>
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 📫 How to reach me **gayaniakithma@gmail.com**
 
