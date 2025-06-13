@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently Undergraduate in **BSc Computer Science**
 
 - 📫 How to reach me **gayaniakithma@gmail.com**
 
