@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently Undergraduate in **BSc Computer Science**
+- 🌱 I’m an undergraduate in **BSc Computer Science**
 
 - 📫 How to reach me **gayaniakithma@gmail.com**
 
